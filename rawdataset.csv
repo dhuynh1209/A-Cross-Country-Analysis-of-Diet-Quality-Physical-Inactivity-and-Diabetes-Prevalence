@@ -1,0 +1,101 @@
+Country,GDP,DiabetesP2024,HealthEx,MAge2024,PIRate2022,DietScore,Region
+Saint Vincent and the Grenadines,"11,294",8.6,4.44,37.6,,0.1820575668,Latin America and Caribbean
+United States,"84,817",13.7,16.69,38.9,40,0.1974566995,North America
+South Korea,"36,262",9.6,8.68,45.5,35.5,0.0131920357,East Asia and Pacific
+Montenegro,"12,959",10.7,9.65,41.1,48.3,0.122591831,Europe and Central Asia
+Burundi,289,4.3,9.09,18.4,6.9,-0.3539058024,Sub-Saharan Africa
+Bosnia and Herzegovina,"9,632",10.3,8.92,44.8,25.5,0.9130970101,Europe and Central Asia
+Slovenia,"34,212",7,9.88,46.3,32.5,0.4378161782,Europe and Central Asia
+Marshall Islands,"7,491",25.7,13.41,25.5,43.5,-0.5064696546,East Asia and Pacific
+Uganda,"1,049",2.2,4.24,16.2,5.5,0.0122976591,Sub-Saharan Africa
+Guatemala,"6,150",13.2,6.8,24.8,37,-0.4600790806,Latin America and Caribbean
+Australia,"68,528",7.4,10.4,38.1,30.5,-0.4423232682,East Asia and Pacific
+Faroe Islands,,5.3,,36.8,,,Europe and Central Asia
+Israel,"57,770",10.1,7.1,30.1,30.6,0.3295997963,"Middle East, North Africa, Afghanistan & Pakistan "
+Costa Rica,"18,587",9.8,6.87,35.5,46,-0.3775354588,Latin America and Caribbean
+Turks and Caicos Islands,"37,760",,,36.3,,,Latin America and Caribbean
+Senegal,"1,682",3.8,4.32,19.2,23,-0.1375098277,Sub-Saharan Africa
+Nicaragua,"2,848",10.4,8.3,29,39,-0.609463835,Latin America and Caribbean
+Burkina Faso,883,4.5,7.8,18.7,20.5,-0.3286919259,Sub-Saharan Africa
+Finland,"53,174",6.9,10.47,43.3,16.5,0.03331909025,Europe and Central Asia
+Peru,"8,456",6.4,5.64,30.2,21.1,0.05942970322,Latin America and Caribbean
+Cayman Islands,"102,833",11.1,,41.2,20,,Latin America and Caribbean
+New Caledonia,"34,981",22,,34.3,37.60%,0.2617499575,East Asia and Pacific
+Pakistan,"1,212",20.1,5.34,22.9,33.5,-0.3035973541,"Middle East, North Africa, Afghanistan & Pakistan "
+Venezuela,"5,298",8.6,3.78,31,31.5,-0.3198553196,Latin America and Caribbean
+Denmark,"71,021",6.4,9.39,42.2,28.5,0.1727627507,Europe and Central Asia
+Saint Lucia,"14,323",11.4,4.73,39.7,39.5,-0.4163857807,Latin America and Caribbean
+Egypt,"2,634",22.4,4.88,24.4,31,0.4796351012,"Middle East, North Africa, Afghanistan & Pakistan "
+Sint Maarten (Dutch part),"38,515",11.2,,41,,,Latin America and Caribbean
+Djibouti,"3,553",6.5,2.28,26.3,60.9,-0.159270966,"Middle East, North Africa, Afghanistan & Pakistan "
+Cape Verde,"5,273",6.8,5.85,28.8,19.5,-0.2526010444,Sub-Saharan Africa
+Brazil,"10,311",10.6,9.73,35.1,46.5,-0.2877727052,Latin America and Caribbean
+Iceland,"84,450",6.9,8.98,38,26.2,0.1305658222,Europe and Central Asia
+Chile,"16,710",12.2,10.53,36.9,26.5,-0.112552604,Latin America and Caribbean
+Palau,"17,513",19.3,10.85,35.3,41,,East Asia and Pacific
+Barbados,"26,897",13.2,5.4,41.4,42,-0.264462472,Latin America and Caribbean
+Turkey,"15,127",16.5,4.28,34,30.5,1.155578574,Europe and Central Asia
+Hungary,"23,037",8.3,6.37,44.8,38,-0.04411584294,Europe and Central Asia
+Ghana,"2,409",2.7,2.95,21.4,22,0.01556569369,Sub-Saharan Africa
+Switzerland,"104,973",5.3,11.69,44.2,24,0.5081222276,Europe and Central Asia
+Ivory Coast,"2,690",5,3.43,21.2,33,-0.3601368369,Sub-Saharan Africa
+Laos,"1,958",6.7,1.33,25.4,16.5,-0.04648833196,East Asia and Pacific
+Bermuda,"136,766",13.4,,43.8,17.1,,North America
+United Kingdom,"53,313",7.4,11.13,40.8,36,0.4842853431,Europe and Central Asia
+Iraq,"6,074",13.4,5.53,22.4,52.5,0.3483134742,"Middle East, North Africa, Afghanistan & Pakistan "
+Poland,"23,734",8.1,8.06,42.9,32.5,-0.002955009876,Europe and Central Asia
+Saudi Arabia,"36,927",23.1,5.69,32.4,55,0.188059773,"Middle East, North Africa, Afghanistan & Pakistan "
+Mongolia,"6,786",10.3,6.07,31.5,18.5,-0.5715362771,East Asia and Pacific
+Somalia,597,5.8,3.74,19.1,55.2,-1.217948159,Sub-Saharan Africa
+Bolivia,"3,756",3.4,6.92,26.6,15.5,-0.7951133399,Latin America and Caribbean
+Saint Martin (French part),,12.1,,34.2,,,Latin America and Caribbean
+Afghanistan,396,11.7,14.99,20,63.2,0.3434955084,"Middle East, North Africa, Afghanistan & Pakistan "
+Federated States of Micronesia,"5,058",19.2,12.88,28.2,37,-0.8444255375,East Asia and Pacific
+Central African Republic,496,7.6,10.66,20.4,14.5,-0.5381620406,Sub-Saharan Africa
+Cyprus,"40,476",10,8.12,39.5,44.5,-0.1365708349,Europe and Central Asia
+Spain,"35,958",9.7,9.22,46.8,27,0.1224602061,Europe and Central Asia
+Albania,"9,685",10.6,7.05,36.3,Europe and Central Asia,1.385866913,Europe and Central Asia
+Portugal,"30,049",10.5,10.24,46.4,43.5,0.3955150616,Europe and Central Asia
+Argentina,"13,970",14,10.27,33.3,41.5,0.1112416389,Latin America and Caribbean
+Equatorial Guinea,"6,493",8.2,3.5,22.1,28,,Sub-Saharan Africa
+Guinea,"1,597",4.6,3.69,19.4,14.5,-0.2945222257,Sub-Saharan Africa
+Antigua and Barbuda,"23,060",11.6,3.91,33.9,60.6,0.3688996725,Latin America and Caribbean
+Liechtenstein,"216,392",7.2,5.71,44.2,27.5,,Europe and Central Asia
+Latvia,"23,337",7.1,7.28,45.5,29,-0.2289993118,Europe and Central Asia
+Bahamas,"39,455",8.9,6.3,30.7,43,0.5908676552,Latin America and Caribbean
+Morocco,"4,217",11.9,6.06,30.6,26,0.5920775321,"Middle East, North Africa, Afghanistan & Pakistan "
+Dominica,"10,405",12.9,5.01,37,21.5,1.123387273,Latin America and Caribbean
+Maldives,"13,379",9.5,9.25,31.9,30.5,0.7134001703,South Asia
+Chad,913,7.3,5,16.7,23.5,-0.7492107625,Sub-Saharan Africa
+Ecuador,"6,875",4.9,7.56,28,27.5,-0.9358342348,Latin America and Caribbean
+Macau,"68,680",8.1,,42.5,,-0.6094790099,East Asia and Pacific
+Bangladesh,"2,464",13.2,2.17,29.6,28,-0.4635241681,South Asia
+Montserrat,"18,451",,,36.8,,,Latin America and Caribbean
+Malta,"46,386",10,8.84,43.5,41.5,0.2494853019,"Middle East, North Africa, Afghanistan & Pakistan "
+Malaysia,"11,867",21.1,3.96,31.8,39,-0.4083975429,East Asia and Pacific
+Libya,"6,569",15.8,7.81,26.2,36.5,0.626730614,"Middle East, North Africa, Afghanistan & Pakistan "
+Malawi,509,5.7,6.53,20.3,15.5,0.05138969653,Sub-Saharan Africa
+Comoros,"1,703",10.8,6.55,22.7,14.5,-0.4130356979,Sub-Saharan Africa
+India,"2,724",10.5,3.34,29.8,34.5,-0.02530697535,South Asia
+Togo,997,4.8,6.11,20.7,9.5,-0.470493944,Sub-Saharan Africa
+South Sudan,403,4.6,11.61,18.7,,-0.4607796042,Sub-Saharan Africa
+South Africa,"6,267",7.2,8.91,30.4,38,-0.5379608962,Sub-Saharan Africa
+Tonga,"6,218",19.6,7.36,25.9,17.5,1.251857622,East Asia and Pacific
+Trinidad and Tobago,"17,001",12.4,7.53,38.5,38,-0.1665893734,Latin America and Caribbean
+Paraguay,"6,457",9.4,8.36,31.8,37.5,-0.1368296981,Latin America and Caribbean
+Taiwan,,,,44.6,,0.05333798281,East Asia and Pacific
+Cook Islands,"30,161",,,41.1,13.5,,East Asia and Pacific
+American Samoa,,,,30,,,East Asia and Pacific
+China,"13,206",11.9,5.94,40.2,14,1.332825526,East Asia and Pacific
+Mauritania,"2,121",5.2,4.34,22.1,36.5,-0.2273169125,Sub-Saharan Africa
+Tanzania,"1,209",9.8,3.05,19.1,,-0.40650856,Sub-Saharan Africa
+Sweden,"57,028",5.8,11.22,41.1,23.5,0.2783904868,Europe and Central Asia
+Greenland,"62,078",4.3,,35.3,59,,Europe and Central Asia
+United Arab Emirates,"50,088",20.7,4.97,35.8,44,0.2338202481,"Middle East, North Africa, Afghanistan & Pakistan "
+Saint Kitts and Nevis,"23,916",,,38.6,32,-0.3808332308,Latin America and Caribbean
+Serbia,"13,223",10.5,8.03,43.9,39.5,1.13567321,Europe and Central Asia
+Japan,"32,534",8.1,10.74,49.9,35.5,-0.2211565581,East Asia and Pacific
+Germany,"55,113",7.8,12.27,46.8,42,0.1849152262,Europe and Central Asia
+Brunei,"33,418",13.7,2.23,32.3,27.5,,East Asia and Pacific
+Samoa,"5,749",25.4,6.78,27.4,12.5,-0.05158591893,East Asia and Pacific
+Timor-Leste,"1,503",3.2,9.6,20.6,18,-0.6343165417,East Asia and Pacific
